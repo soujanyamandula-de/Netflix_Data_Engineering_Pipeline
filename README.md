@@ -24,6 +24,7 @@ ADLS Gen2 — Silver Layer (cleaned, Delta format)
         ▼
 ADLS Gen2 — Gold Layer (validated, governed via Unity Catalog)
 ```
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/e5ef5cdf-1c79-430b-87e2-dd386998e1de" />
 
 ## Tech Stack
 
